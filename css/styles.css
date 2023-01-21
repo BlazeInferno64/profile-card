@@ -213,6 +213,7 @@ footer a:hover{
     }
 
 }
+/*
 @media(max-width: 600px){
     body{
         text-align: center;
@@ -254,7 +255,7 @@ footer a:hover{
         width: 700px;
         margin-left: 10px;
     }
-}
+} */
 @media(min-width: 700px){
     body{
         text-align: center;
