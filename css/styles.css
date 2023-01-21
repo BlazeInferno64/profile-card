@@ -213,6 +213,48 @@ footer a:hover{
     }
 
 }
+@media(max-width: 689px){
+    body{
+        text-align: center;
+        background: linear-gradient(1000deg,rgb(83, 235, 164),74%,#ccc);
+    }
+    .card{
+        width: 700px;
+        height: 420px;
+        box-shadow: 0 22px 66px 0 rgba(0,0,0,0.24),0 27px 60px 0 rgba(0,0,0,0.24);
+    }
+    .card-head{
+        font-size: 20px;
+    }
+    .card-img{
+        height: 110px;
+        width: 110px;
+        border-radius: 70px;
+    }
+    .card-info{
+        font-size: 20px;
+    }
+    .card-info li{
+        position: relative;
+        bottom: 110px;
+        right: 30px;
+    }
+    .abt-btn,.abt-btn1{
+        padding: 20px 40px;
+        border-radius: 60px;
+        font-size:  18.5px;
+    }
+    p{
+        font-size: 20px;
+    }
+    footer{
+        text-align: center;
+        margin-right: 2rem;
+        border-radius: 5px;
+        width: 700px;
+        margin-left: 10px;
+    }
+}
 @media(min-width: 700px){
     body{
         text-align: center;
