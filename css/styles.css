@@ -4,7 +4,8 @@
 }
 body{
     font-family: sans-serif;
-    background: #2a2d2e url(../img/bg.jpg) top center fixed;
+    
+    background: #2a2d2e /*url(../img/bg.jpg)*/ top center fixed;
     background-size: cover;
 }
 /*img{
