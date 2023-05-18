@@ -7,7 +7,7 @@ This is just a simple profile card of myself plss note that this repository shou
 <a href="https://blaizinginfernodragon123.github.io/profile-card/">
 
 ```
-https://blaizinginfernodragon123.github.io/My-Profile-Card/
+https://blaizinginfernodragon123.github.io/profile-card/
 ```
 </a>
 
