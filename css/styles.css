@@ -5,14 +5,14 @@
 body{
     font-family: sans-serif;
     
-    background: #2a2d2e url(https://img.freepik.com/free-vector/panoramic-view-foliage-tropical-forest-trees_23-2148271242.jpg?w=740&t=st=1684404833~exp=1684405433~hmac=a9b34b35d8fc0a3f88e6b6fe93f6c571c4ed9bef2749c3637d5c5856adad19bf) top center fixed cover;
+    background: #2a2d2e url(../img/bg.jpg) top center fixed cover;
    /* background-size: cover;*/
 }
 /*img{
     width: 110px;
 }*/
 .container{
-   /* margin: 100px auto;*/
+   margin: 100px auto;
     background: #141414;
     border-radius: 5px;
     width: 350px;
