@@ -2,9 +2,14 @@
     color: #fff;
     background: #029c69;
 }
+*{
+box-sizing: border-box;
+}
 body{
     font-family: sans-serif;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: #2a2d2e url(../img/bg.jpg) top center fixed cover;
    /* background-size: cover;*/
 }
@@ -19,7 +24,7 @@ body{
     color: #b3b8cd;
     transition: all .5s;
     text-align: center;
-    perspective:150px;
+   /* perspective:150px;*/
     opacity: 0.91;
     box-shadow: 0 10px 20px -10px rgba(0,0,0,.75), 0 10px 0 0 #0471a3;
 }
