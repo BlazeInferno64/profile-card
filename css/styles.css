@@ -28,7 +28,7 @@ img{
    box-shadow: 0 10px 50px 0px rgba(0,0,0,.75), 0 10px 0 0 #0471a3;
 }
 .banner{
-    background: url('../img/dark.gif') top center cover no-repeat fixed;
+    background: url('../img/dark.gif') top center cover no;
     height: 160px;
     width: 100%;
     border-radius: 5px 5px 0 0;
