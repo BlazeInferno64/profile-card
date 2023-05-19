@@ -30,7 +30,7 @@ followBtn.addEventListener('contextmenu',(e) =>{
         followBtn.innerText = 'Follow Me';
         console.log("Unfollowed successfully!!");
     }
-    if (enter.value = 'No'){
+    else  if (enter.value = 'No'){
         alert("Wish granted !!, you are still following me :)");
     }
     else{
