@@ -4,10 +4,10 @@ This is just a simple profile card of myself plss note that this repository shou
 
 # View it here-
 
-<a href="https://blaizinginfernodragon123.github.io/profile-card/">
+<a href="https://blazeinferno64.github.io/profile-card/">
 
 ```
-https://blaizinginfernodragon123.github.io/profile-card/
+https://blazeinferno64.github.io/profile-card/
 ```
 </a>
 
